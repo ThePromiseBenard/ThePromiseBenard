@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Promise Benard Augustine
 ================================================================================================================================================
 
-FrontEnd Developer
+FrontEnd Engineer
 ------------------
 
-I am a frontend developer who loves using React and Nextjs
+I am a frontend engineer who loves using React and Nextjs
 
 * 🌍  I'm based in Enugu, Nigeria
 * 🖥️  See my portfolio at [thepromisebenard.com](http://thepromisebenard.com)
