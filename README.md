@@ -6,8 +6,8 @@ FrontEnd Engineer
 
 I am a frontend engineer who loves using React and Nextjs
 
-* 🌍  I'm based in Enugu, Nigeria
-* 🖥️  See my portfolio at [thepromisebenard.com](http://thepromisebenard.com)
+* 🌍  I'm based in Nigeria
+<!-- * 🖥️  See my portfolio at [thepromisebenard.com](http://thepromisebenard.com) -->
 * ✉️  You can contact me at [thepromisebenard@gmail.com](mailto:thepromisebenard@gmail.com)
 * 🧠  I'm learning A new Framework
 * 🤝  I'm open to collaborating on Intresting and Exciting projects
