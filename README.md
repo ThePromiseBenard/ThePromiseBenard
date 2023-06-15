@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a frontend engineer who loves using React and Nextjs<br><br>📧 You can contact me at thepromisebenard@gmail.com<br><br>🧠 Currently, I'm learning A new Framework<br><br>🤝 I'm open to collaborating on Interesting and Exciting projects
+I am a frontend engineer who loves using React and Nextjs<br><br>📧 You can contact me at thepromisebenard@gmail.com<br><br>🧠 Currently, I'm learning A new Framework<br><br>🤝 I'm open to collaborating on Interesting and Exciting projects<br>
 <a href="https://app.daily.dev/promzyweb"><img src="https://api.daily.dev/devcards/9fce5a3b8e9f427098db474cbd249322.png?r=5g5" width="400" alt="Promise Benard Augustine's Dev Card"/></a>
 
 
