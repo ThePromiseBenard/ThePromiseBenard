@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 I am a frontend engineer who loves using React and Nextjs<br><br>📧 You can contact me at thepromisebenard@gmail.com<br><br>🧠 Currently, I'm learning A new Framework<br><br>🤝 I'm open to collaborating on Interesting and Exciting projects<br>
-<a href="https://app.daily.dev/thepromisebenard"><img src="https://github.com/ThePromiseBenard/ThePromiseBenard/blob/main/devcard.svg" width="400" alt="Promise Benard Augustine's Dev Card"/></a>
 
+<a href="https://app.daily.dev/thepromisebenard"><img src="https://github.com/ThePromiseBenard/ThePromiseBenard/blob/main/devcard.svg" width="400" alt="Promise Benard Augustine's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thepromisebenard) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thepromisebenard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thepromisebenard) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thepromisebenrd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thepromisebenard) 
