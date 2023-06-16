@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 I am a frontend engineer who loves using React and Nextjs<br><br>📧 You can contact me at thepromisebenard@gmail.com<br><br>🧠 Currently, I'm learning A new Framework<br><br>🤝 I'm open to collaborating on Interesting and Exciting projects<br>
-<a href="https://app.daily.dev/promzyweb"><img src="https://github.com/ThePromiseBenard/ThePromiseBenard/blob/main/devcard.svg" width="400" alt="Promise Benard Augustine's Dev Card"/></a>
+<a href="https://app.daily.dev/thepromisebenard"><img src="https://github.com/ThePromiseBenard/ThePromiseBenard/blob/main/devcard.svg" width="400" alt="Promise Benard Augustine's Dev Card"/></a>
 
 
 ## 🌐 Socials:
